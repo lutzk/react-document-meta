@@ -38,7 +38,7 @@
   },
   "dependencies": {
     "exenv": "^1.2.0",
-    "react-dom": ">=0.14.0",
+    "react-dom": ">=0.14.0 || ^15.0.0",
     "react-side-effect": "^1.0.1"
   },
   "repository": "kodyl/react-document-meta",
